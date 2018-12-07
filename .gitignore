@@ -1,0 +1,6 @@
+*/__pycache__/
+*/output.xml
+*/stdout.txt
+*/.ipynb_checkpoints/
+*/.pytest_cache/
+
